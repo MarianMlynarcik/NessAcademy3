@@ -1,4 +1,4 @@
 First name Johny
-Last name Smitha
-Nickname Johnk
+Last name Smith
+Nickname John
 Age 90
