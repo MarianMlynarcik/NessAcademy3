@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-First name John
-Last name Carrot
-=======
 First name Johny
 Last name Smith
->>>>>>> 9b5d8d4662dcafa6ca9cca06b07e679d7dd30e40
